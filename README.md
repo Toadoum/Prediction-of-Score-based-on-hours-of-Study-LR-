@@ -1,4 +1,4 @@
-# Prediction-of-Score-based-on-hours-of-Study-LR-
+
 
 In this project, we will write down our linear regression from scratch using stochastic gradient descent to predict score of student based on the numbers of hours of study (target).
 
